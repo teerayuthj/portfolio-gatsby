@@ -1,20 +1,24 @@
 import React from "react"
-import { Link } from "gatsby"
+import { library } from "@fortawesome/fontawesome-svg-core"
+import { faGhost, fas } from "@fortawesome/free-solid-svg-icons"
+import { fab } from "@fortawesome/free-brands-svg-icons"
 
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
+import Layout from "../components/Layout"
+import Header from "../components/Header"
+import Footer from "../components/Footer"
+import About from "../sections/About"
+import Projects from "../sections/Projects"
+import Headingpage from "../sections/Heading"
+
+library.add(faGhost, fab, fas)
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Header />
+    <Headingpage />
+    <About />
+    <Projects />
+    <Footer />
   </Layout>
 )
 
