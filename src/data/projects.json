@@ -4,7 +4,7 @@
       "icon": "https://lh3.googleusercontent.com/_A54_cqi8h_j6dzjuOPxpfykJFQFFOSXNy-JHjGwqymoDYsmbKS81SPNkVi4nT_B6pnyXDWbNtzamnR44L04q0e5UNLiPO9Za_HzeQA1RLhDTefb5McArY7KeRbzB5biXDUu5RS5sA=s512-no",
       "name": "Portfolio",
       "description": "It build with Gatsby.js, Rebass (styled-component, styled-system).",
-      "github": ""
+      "github": "https://github.com/McTunT/portfolio-gatsby"
     }
   },
   {
@@ -12,7 +12,7 @@
       "icon": "https://lh3.googleusercontent.com/UzPJIrtfq4zW3db3RowesjhsA9Spc3nntoPQKngP1x5zv0AV_zbmpPJaG_BotFNqklRoyhmIfOU2N-Iuiye5sliJ-W0bpC17M3ZK4hnzI7oe8Aaz9yIwS9f3h2Q7DTU5ByX3S_DhiA=s512-no",
       "name": "Email Receipt",
       "description": "It build a production ready Window Server of a React app with Webpack, Node.js and Nginx.",
-      "github": ""
+      "github": "https://github.com/McTunT/email-receipt"
     }
   },
   {
