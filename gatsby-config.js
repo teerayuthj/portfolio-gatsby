@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `๋James | Teerayuth`,
+    title: `James | Teerayuth`,
     description: `FontEnd Developrt - React`,
     author: `James Teerayuht`,
   },
@@ -24,8 +24,7 @@ module.exports = {
         path: `${__dirname}/src/data`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -34,7 +33,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
-        display: `minimal-ui`,
+        display: `standalone`,
         icon: `src/logo/fire-solid.svg`, // This path is relative to the root of the site.
       },
     },
