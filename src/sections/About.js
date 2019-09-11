@@ -17,7 +17,7 @@ const About = () => (
       <Box width={[1, 1, 2 / 4]} color="decsGray">
         <Fade bottom>
           <Box fontSize={[1, 2, 3]} p="15px">
-            {`Hello! I'm a Fontend developer with a passion for web developer and new technologies using the JavaScript ecosystem and React. 
+            {`Hello! I'm James with a passion for web developer and new technologies using the JavaScript ecosystem and React. 
             I have built web experiences for companies, using a broad range of technologies, 
             most notably React, CSS, Webpack, JavaScript, Adobe AEM, HubSpot, Magento`}
           </Box>
