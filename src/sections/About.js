@@ -28,8 +28,7 @@ const About = () => (
           <Box fontSize={[1, 2, 3]} p="15px">
             I things love and thank you for React.js, Node.js, JavaScript,
             Express.js, Webpack, GraphQL, Apollo GraphQL, Git,
-            styled-components, Rebass, Gatsby.js, Create React App, Netlify and
-            a whole lot more.
+            styled-components, Rebass, Gatsby.js, Netlify and a whole lot more.
           </Box>
         </Fade>
       </Box>

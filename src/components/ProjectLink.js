@@ -6,22 +6,24 @@ import styled from "styled-components"
 import { Card } from "./Card"
 
 const HEIGHT = "200px"
+
 const TextContainer = styled.div`
   display: flex;
   flex-direction: column;
   padding: 10px;
   width: 100%;
+  font-weight: 600 !important;
 `
 const Title = styled(Text)`
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600 !important;
   display: table;
   color: ${props => props.theme.colors.darkGrey};
 `
 
 const LinkGihub = styled(Link)`
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600 !important;
   text-decoration: none;
   position: relative;
   margin-bottom: 0;
@@ -45,7 +47,7 @@ const LinkGihub = styled(Link)`
   &:hover:after {
     left: 0;
     right: auto;
-    width: 105px;
+    width: 102px;
     margin: auto;
   }
   @media only screen and (max-width: 600px) {
@@ -79,7 +81,11 @@ const LinkProject = ({ name, icon, description, github }) => {
             >
               Source Code
               <FontAwesomeIcon
-                style={{ margin: "10px 0px 0px 8px", fontWeight: "normal" }}
+                style={{
+                  padding: "11px 0 0 0",
+                  fontWeight: "normal",
+                  fontSize: "25px",
+                }}
                 icon={["fas", "angle-double-right"]}
               />
             </LinkGihub>

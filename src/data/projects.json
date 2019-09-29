@@ -27,15 +27,15 @@
     "value": {
       "icon": "https://lh3.googleusercontent.com/SvfYsQKmZIQRDD9CAylNXHlqu37qaB9tjvn4xeh3QjdT7OwRK5q0qQ6va3dA_IjQwJQT5JqA-Cn7exLKf2rcUhxgY5Dg41HLdtUlkYnlBYl_eQPEIev65tg9HcdrHRPLdb3sT4x1vpl9RM_ifdAFvqR3_j1sy65NwB0kX_bpT0Y-fK1_-kqn_SJbY-SqoLRZZlJ5a1UAvlIH-oWfcwv8azKWS0MkZu_9rX6YLH5YCF8UoZQHDYZAc1tJ4pP7gIbgAC1JyUBDiOIR-fdTxcfGDyxOwrK8uHp-s4xQcoIQydRDA8ceoGeEwN6mhGZzJacUopjS8lxLmGtJ-5swD0T8FnKvSgMYUOoZEYyduI-L0FojUG-jkCDh_EFR74XrvaK0uEaDa1lLi_SxQ9MAkTVbVXzPJllb9F9jJH1FdeOEDzDvSBBS3JM9l0WUVEi9UUJgPYpIxjlqb4L7Y4O8TPaDmwu0u9A7YLMorwJ17KQjHBAOgUFy6QXDWRrLuiyO05qPgGvpGjiHgGS5HR-8a0bBlvfC4OZ0iEP7KIBpF5xBfGTcuIS1zwSgTRV0vTJ53vJXATqV_z6ZFOw_-Q1jDyD1QdXzbqXCoXpBsTfPeA6zuNpQmusFRuvCtFMC6WeZ9IRhtlUjvRLt_i9kDg7EqZ1EwzTYkNX77HI=s512-no",
       "name": "SpaceX Launchs",
-      "description": "SpaceX Launchs, with React , Express.js, Apollo GraphQL and using the SpaceX API.",
+      "description": "SpaceX Launchs with React, Express.js, Apollo GraphQL and using the SpaceX API.",
       "github": "https://github.com/McTunT/SpaceX_Launches"
     }
   },
   {
     "value": {
       "icon": "https://lh3.googleusercontent.com/fiqqdSiXhLnjkVn8H1CgbfGhydGhKGpFNDWxJxe2m9RKOngUuPvYnipqP70Sa2XrhErAk0LNtsDTYXfIwuSm0PkWktTXoH9YWKIZkX6eHgvUS9_pleP8uggD2VunYLzmV3wXx6TK6p0dUJnv8ksImA7aCRSEQ5IPxp1zNmzsJsf9659J1h-prJ2X8crH4-Ytnza-vWSRXR6bOxmqtwhNg2NK2NSuW_FvUESt3mlZcAIe9V-_-SqSrNlc3BebI1gCi_75p3MFyun56XexcImxAeh0qz7ZxgC7y6wD7A_ECnbxsSI61jDdc9N3LwwliNO0ADZgaISDuQBgZ69u4AE07FRyUaT6XR0GnobIpgyVR-ucvX9uxI-seHhLDuS5RTtCphT18se5RrRZhqzs6FCMtyuidziAocnXhgaG_Hx_HQW32JJtebtjkkhYx4Oj72z2mFiAiDflpxCmWkfBG1rHitFnYL-zK3IfFQeT7PY4TRF3_53CAjVJC5Cw2GXFUv16eOjykKtCc39C1x3CeVch3UNY1RA8QTQRX76cFkq2lSzE6lUmYHmSYeHX6QM0zXp8IzRgdspDr2XwGnkUKM2BIMeF6iX45L9iAja65SMmVyQsiCvONnleZQuXfOZSE2PBg1RxNfNXBwiSoEITVOazfc_3mqgnZmv0SOsH7VEf7M-K4y6xBh47hg9t_jLg8I-XZDF7HoSOJ4Uo6E2awqNuYpuv=s512-no",
-      "name": "Drak Mode",
-      "description": "Adding dark mode to your React app with context and styled-compoents.",
+      "name": "Dark Mode",
+      "description": "Adding dark mode to your React app with context API and styled-compoents.",
       "github": "https://github.com/McTunT/drak-mode"
     }
   },
@@ -43,7 +43,7 @@
     "value": {
       "icon": "https://lh3.googleusercontent.com/rRfQZXEFEPDR6bydTcbMmnqR4ZEfOArEV13mhBVqeiahiVqbk46698iGpoA_mzloNEMK_E57T7kjFyJpKM5_DVurxQIQvjqWS0SBvcKp3JSbVLe0Jq43pwy61uRAFiNZPautOJvT2sQ82eKKPcs_XH6KeQPZ0CqSkfzJb0cvVao610lhkNLgDPPtZZl04vWVWQQ47teAkaZTA0pzcdGF6GIH-OEKWoHG88kdf8De_I_IZifREcOQogmh_H2on26-71UB6di6pm_-LdQZHTBBeQ0aSDuMXg3PQsMv_rVtfswdbgfDbzy8dK39BwGcnzlSnCl9m5KCDpTzVZgPbEUEhfTr08FyeHNeTW16M0S1kaLfvfjSx3PM_vzcPwSp9Xz3SzDhR5esYqTz1YJyG0EFoaJVypaI-2fNvh3-V90-15TNVB265MaInWiRW0mdt6NKeEQUgAAv6l_IlWLINqu47kXAH2CGsMoQp5_d-Bkl4OxCOLL7pU3JPkzzWKQvDNR0ULcpR1wQOEvyhXVcC00bRNQ588QTCoIXzbx_wLGVqpw-rV3Xi1Pzx_aqnPc2UMofL0usHSCE-1WXJbc14Pppd3hJeDT0ZOd_xxAg6gAwqK_qhmhUgrqNQsPqfg0o-XzNB2rFqLS99fGOnmfAtsq2ydMghfHLNRCBTUKR8-E7uQSyYqE_xXixpb06BfCNKvW5DR2hMFeeeGcY0RQK5XLoyKrA=s512-no",
       "name": "Gold Spot",
-      "description": "React App for displaying real time gold spot with Hooks",
+      "description": "React App for displaying real time gold spot with React Hooks",
       "github": "https://github.com/McTunT/Gold-Spot"
     }
   }
