@@ -14,6 +14,7 @@
     "@mdx-js/react": "^1.4.5",
     "clean-dir": "^1.0.3",
     "dotenv": "^8.0.0",
+    "emailjs-com": "^2.4.0",
     "envfile": "^3.0.0",
     "gatsby": "^2.13.17",
     "gatsby-image": "^2.2.5",
