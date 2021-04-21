@@ -60,6 +60,7 @@ const Header = () => (
                 }}
               />
             )
+
             const navLinks = links.map(({ name, value }) => (
               <RouteLink
                 key={name}
