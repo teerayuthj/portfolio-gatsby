@@ -19,16 +19,16 @@ const About = () => (
           <Box fontSize={[1, 2, 3]} p="15px">
             {`Hello! I'm James with a passion for web developer and new technologies using the JavaScript ecosystem and React. 
             I have built web experiences for companies, using a broad range of technologies, 
-            most notably React, CSS, Webpack, JavaScript. I have also worked with Adobe Experience Manager (AEM), HubSpot, Magento`}
+            most notably React, CSS, TypeScript, JavaScript. I have also worked with Adobe Experience Manager, HubSpot, Magento, Wordpress`}
           </Box>
           <Box fontSize={[1, 2, 3]} p="15px">
             {`I started worked in programming journey in 2018 🚀. I love learning new technologies and 
             ready to move on to a new challenge. I put my efforts on learning the latest trends on Development, and strive to better myself as a developer.`}
           </Box>
           <Box fontSize={[1, 2, 3]} p="15px">
-            I things love for React.js, Node.js, JavaScript, Express.js,
-            Webpack, GraphQL, Apollo GraphQL, Git, styled-components, Rebass,
-            Gatsby.js, Netlify and a whole lot more.
+            {`I things love for React.js, Node.js, JavaScript, TypeScript, Express.js,
+            Webpack, Git, styled-components,
+            Gatsby.js, Netlify and a whole lot more.`}
           </Box>
         </Fade>
       </Box>
