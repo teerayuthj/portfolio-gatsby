@@ -10,11 +10,7 @@ const links = [
     name: "GitHub",
     url: "https://github.com/McTunT",
   },
-  {
-    fontAwesomeIcon: ["fab", "twitter"],
-    name: "Twiiter",
-    url: "https://twitter.com/TeerayuthJ",
-  },
+
   {
     fontAwesomeIcon: ["fab", "medium"],
     name: "Medium",
